@@ -2,7 +2,7 @@
 
 ## Transforming Scientific Complexity into Visual Clarity
 
-![Muza Productions Banner](https://www.muza.productions/assets/Muza-BG-strip.jpg)
+![Muza Productions Banner](Muza-BG-strip.jpg)
 
 ## Who We Are
 
